@@ -1,6 +1,6 @@
 - 📜 hi, I’m @not-mira!
 - 🎹 I’m interested in game design & animation.
-- 🎻 I’m currently learning c++.
+- 🎻 I’m currently working on various python projects!
 
 
 <!---
